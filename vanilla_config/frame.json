@@ -1,0 +1,7 @@
+{
+  "title": "Vanilla Ice Cream",
+  "icon": "assets/icon.png",
+  "size": [1600, 900],
+  "background": ["color", [250, 220, 180]],
+  "flags": []
+}

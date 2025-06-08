@@ -1,0 +1,17 @@
+{
+  "name": "main_menu",
+  "objects": [
+    {
+      "id": "button.quit",
+      "data": [[200, 100]]
+    },
+    {
+      "id": "button.quit",
+      "data": [[400, 100]]
+    },
+    {
+      "id": "button.sayhi",
+      "data": [[200, 500]]
+    }
+  ]
+}

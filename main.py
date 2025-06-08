@@ -1,5 +1,4 @@
 from vanilla_api.frame import frame
-from vanilla_api.sprites import button
 
 
 class VanillaIceCream(frame.VanillaIceCream):
